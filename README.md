@@ -1,4 +1,4 @@
-# testgila-frontend
+# vehicles-frontend
 
 ## Project setup
 ```
